@@ -1,0 +1,12 @@
+{
+    "usuarios": [
+        {
+            "identificacion": 1231,
+            "nombre": "manu",
+            "cargo": "gerente",
+            "salario": 123121,
+            "inasistencias": []
+        }
+    ],
+    "bonos": []
+}

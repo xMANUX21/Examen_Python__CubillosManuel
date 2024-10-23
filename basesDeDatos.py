@@ -1,0 +1,3 @@
+usuarios=[]
+bonos=[]
+totales=[]
